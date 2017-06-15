@@ -14,6 +14,13 @@ How to hidden system file
     defaults write com.apple.finder AppleShowAllFiles FALSE;\killall Finder
 
 
+How to change screenshot path
+
+    defaults write com.apple.screencapture location ~/Pictures/
+    
+    killall SystemUIServer
+
+
 
 ## Frontend Development Package
 
