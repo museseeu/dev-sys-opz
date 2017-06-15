@@ -19,9 +19,9 @@ How to hidden system file
 
 Support Basically frontend
 
-npm install express-generator@4 -g
-npm install vue-cli -g
-npm install gulp-cli -g
-npm install supervisor -g
-npm install pm2 -g
-npm install typescript -g 
+    npm install express-generator@4 -g
+    npm install vue-cli -g
+    npm install gulp-cli -g
+    npm install supervisor -g
+    npm install pm2 -g
+    npm install typescript -g 
