@@ -20,6 +20,11 @@ How to change screenshot path
     
     killall SystemUIServer
 
+How to change default screenshot name
+
+    defaults write com.apple.screencapture name "Screenshot"
+
+    killall SystemUIServer  
 
 
 ## Frontend Development Package
